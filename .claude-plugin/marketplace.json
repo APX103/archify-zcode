@@ -1,0 +1,29 @@
+{
+  "name": "archify-zcode",
+  "owner": {
+    "name": "APX103"
+  },
+  "plugins": [
+    {
+      "name": "archify",
+      "source": "./archify",
+      "version": "3.3.0",
+      "description": "Turn any idea, plan, or codebase into validated interactive HTML diagrams: architecture, workflow, sequence, dataflow, lifecycle, ERD, class, tree, timeline, waterfall, one-page explainers and stories. Packaged for ZCode from tt-a1i/archify.",
+      "displayName": "Archify",
+      "displayName_i18n": {
+        "zh-CN": "Archify 图表"
+      },
+      "description_i18n": {
+        "zh-CN": "把想法、计划或代码库转换成经过校验的交互式 HTML 图表：架构、工作流、时序、数据流、生命周期、ERD、类图、树、时间线、瀑布图，以及一页式讲解页和故事导出。打包自 tt-a1i/archify。"
+      },
+      "category": "productivity",
+      "keywords": [
+        "diagram",
+        "architecture",
+        "visualization",
+        "workflow",
+        "explainer"
+      ]
+    }
+  ]
+}

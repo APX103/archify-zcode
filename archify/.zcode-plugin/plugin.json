@@ -1,0 +1,11 @@
+{
+  "name": "archify",
+  "version": "3.3.0",
+  "description": "Turn any idea, plan, or codebase into validated interactive HTML diagrams: architecture, workflow, sequence, dataflow, lifecycle, ERD, class, tree, timeline, waterfall, one-page explainers and stories. Packaged for ZCode from tt-a1i/archify.",
+  "author": {
+    "name": "tt-a1i (upstream), packaged for ZCode by APX103"
+  },
+  "homepage": "https://github.com/tt-a1i/archify",
+  "license": "Apache-2.0",
+  "skills": "./skills"
+}
